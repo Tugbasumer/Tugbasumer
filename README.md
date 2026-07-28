@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Engineer;AI+%7C+Computer+Vision+%7C+NLP;ASP.NET+Core+Developer;Angular+Developer;Always+Learning+New+Technologies" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tuğba Sümer</h1>
 
 <h3 align="center">
@@ -5,7 +9,7 @@ Computer Engineer | AI • Computer Vision • NLP • ASP.NET Core • Angular 
 </h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Computer Vision, Natural Language Processing, and modern web development. I enjoy building software that solves real-world problems.
+Passionate about Artificial Intelligence, Computer Vision, Natural Language Processing, and modern web development.
 </p>
 
 ---
@@ -14,44 +18,39 @@ Passionate about Artificial Intelligence, Computer Vision, Natural Language Proc
 
 I'm **Tuğba Sümer**, a Computer Engineering graduate from **Zonguldak Bülent Ecevit University**.
 
-I am passionate about **Artificial Intelligence**, **Computer Vision**, **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **Full-Stack Web Development**, and **Cybersecurity**.
+I am passionate about **Artificial Intelligence, Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), Full-Stack Web Development, and Cybersecurity**.
 
-Throughout my academic journey, internship, and personal projects, I have developed AI-powered healthcare systems, computer vision applications, phishing detection systems, and modern web applications. I enjoy learning new technologies, solving challenging problems, and transforming ideas into practical software solutions.
+I have hands-on experience developing AI-powered applications, computer vision projects, machine learning solutions, and modern web applications. I enjoy solving real-world problems, learning new technologies, and continuously improving my software development skills.
 
-I am currently looking for opportunities where I can contribute to innovative projects while continuing to improve my technical and professional skills.
+🎯 **Currently open to Software Engineering, AI, Backend, Computer Vision and Full-Stack Developer opportunities.**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Languages & Tools
 
-### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css,react,angular,dotnet,vite,git,github,vscode,visualstudio,linux,mysql" />
+</p>
 
-- Python
-- C
-- PHP
-- JavaScript
-- SQL
+<p align="left">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,mongodb" />
+</p>
 
-### 🤖 Artificial Intelligence
+### 🤖 AI & Machine Learning
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - YOLO
-- OpenCV
-- TensorFlow
-- PyTorch
-- NLP
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
 
 ### 🌐 Web Development
 
 - ASP.NET Core
 - Angular
+- React
 - PHP
-- HTML5
-- CSS3
-- JavaScript
 - REST API
 - Responsive Web Design
 
@@ -62,69 +61,27 @@ I am currently looking for opportunities where I can contribute to innovative pr
 - Wireshark
 - Web Security
 
-### 🛠 Tools
-
-- Git
-- GitHub
-- Visual Studio
-- Visual Studio Code
-- Linux
-
 ---
 
-## 💼 Experience
-
-### 🖥 Computer Vision Intern | Arvasis Information Technologies
-
-- Developed deep learning-based Computer Vision solutions.
-- Performed dataset preparation, annotation, and preprocessing.
-- Contributed to YOLO model training, testing, and performance evaluation.
-- Evaluated model performance using Precision, Recall, and Confusion Matrix metrics.
-
----
-
-## ⭐ Featured Projects
+## 📌 Featured Projects
 
 ### 🩺 MedAI
 
-An AI-powered healthcare assistant that analyzes symptoms, interprets blood test results, and integrates Large Language Models (LLMs) into a web application.
+AI-powered healthcare assistant with symptom analysis, blood test interpretation, and LLM integration.
 
-**Technologies:** Python • PHP • LLM • NLP • AI
+### 👁️ YOLO Sign Language Detection
 
----
+Real-time Turkish & American Sign Language recognition using Computer Vision.
 
-### 👁 YOLO Sign Language Detection
+### 🛡️ PhishGuard
 
-Real-time Turkish and American Sign Language letter recognition system using YOLOv8 and Computer Vision techniques.
+Machine Learning & NLP based phishing email and malicious URL detection system.
 
-**Technologies:** Python • YOLOv8 • OpenCV
+### 🌍 RotaParLax
 
----
+Corporate tourism website developed for a real client.
 
-### 🛡 PhishGuard
-
-Machine Learning and NLP-based phishing email and malicious URL detection system.
-
-**Technologies:** Python • NLP • Machine Learning
-
----
-
-### 🌍 Rota ParLax
-
-A responsive corporate tourism website developed for a real client and currently deployed in production.
-
-**Technologies:** HTML • CSS • JavaScript • PHP
-
----
-
-## 🌱 Currently Learning
-
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- ASP.NET Core
-- Angular
-- Cloud Technologies
-- Software Architecture
+🔗 https://www.rotaparlax.com
 
 ---
 
@@ -135,9 +92,3 @@ A responsive corporate tourism website developed for a real client and currently
 💼 **LinkedIn:** https://www.linkedin.com/in/tugba-sumer
 
 📍 **Location:** Sakarya, Türkiye
-
----
-
-### 💬 Quote
-
-> *"The best way to predict the future is to build it."*
