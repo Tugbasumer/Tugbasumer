@@ -29,11 +29,11 @@ I have hands-on experience developing AI-powered applications, computer vision p
 ## 🚀 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css,react,angular,dotnet,vite,git,github,vscode,visualstudio,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,php,js,html,css,react,angular,dotnet,vite,linux" />
 </p>
 
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,mongodb" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 ### 🤖 AI & Machine Learning
